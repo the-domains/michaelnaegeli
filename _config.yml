@@ -1,19 +1,4 @@
-name: michaelnaegeli
-favicon: null
-layout_spectrum: 0.45522165414877236
 typography_spectrum: 0.4287095342297107
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -25,4 +10,20 @@ color:
   lightness: 0.6692902359645814
   saturation: 0.9622790503781289
   rhythmicContrast: 0.6552141190040857
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.45522165414877236
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: michaelnaegeli
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: Unternehmer
 purpose: []
